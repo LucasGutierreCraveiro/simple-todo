@@ -2,7 +2,7 @@
 
 Essa aplicação foi criada com ReactJS
 
-## Available Scripts
+## Scripts
 
 ### `yarn start`
 
